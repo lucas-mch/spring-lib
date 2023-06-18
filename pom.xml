@@ -14,7 +14,7 @@
     </modules>
 
     <properties>
-        <revision>1.0-SNAPSHOT</revision>
+        <revision>1.0-SNAPSHOT-RELEASE</revision>
     </properties>
 
     <distributionManagement>
