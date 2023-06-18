@@ -17,4 +17,12 @@
       <revision>1.0-SNAPSHOT</revision>
     </properties>
 
+    <distributionManagement>
+    <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/lucas-mch/spring-lib</url>
+    </repository>
+    </distributionManagement>
+
 </project>
