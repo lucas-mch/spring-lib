@@ -3,19 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>dev.lucasmachado</groupId>
     <artifactId>lib</artifactId>
-    <version>${revision}</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Archetype - libraries</name>
+    <name>Springboot libraries</name>
     <description> Libraries </description>
 
     <modules>
       <module>model</module>
     </modules>
-
-    <properties>
-      <revision>1.0-SNAPSHOT</revision>
-    </properties>
 
     <distributionManagement>
     <repository>
